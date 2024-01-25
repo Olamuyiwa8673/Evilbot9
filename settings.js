@@ -7,7 +7,7 @@ global.autoTyping = false //auto tying (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -22,27 +22,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2347069763306" //ur owner number2
-global.ownername = "🎃𝑰𝑨𝑴𝑿𝑫𝑨—𝑻𝑯𝑬 𝑱𝑶𝑲𝑬𝑹🎃" //ur owner name
+global.ownernomer = "2347017804748" //ur owner number2
+global.ownername = "🐉𝐈𝐀𝐌𝐗𝐃𝐀—𝐁𝐀𝐃𝐃𝐘🐉" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: iamevilboy" //ur github or insta name
 global.location = "nigeria, lagos, abuja" //ur location
 
 //new
-global.botname = "🎃𝑨𝑵𝑻𝑰𝑺𝑶𝑪𝑰𝑨𝑳 𝑯𝑼𝑴𝑰𝑫𝑰𝑻𝒀🎃"
-global.ownernumber = '2347069763306'
-global.ownername = '🎃𝑰𝑨𝑴𝑿𝑫𝑨—𝑻𝑯𝑬 𝑱𝑶𝑲𝑬𝑹🎃'
-global.ownerNumber = ["2347069763306@s.whatsapp.net"]
+global.botname = "🐉𝐁𝐀𝐃𝐃𝐘 𝐁𝐎𝐓 𝟎𝟒🐉"
+global.ownernumber = '2347017804748'
+global.ownername = '🐉𝐈𝐀𝐌𝐗𝐃𝐀—𝐁𝐀𝐃𝐃𝐘🐉'
+global.ownerNumber = ["2347017804748@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/Gj1FvKtIG91Hh312aDXzdR"
-global.themeemoji = '🎃'
+global.themeemoji = '🐉'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "🎃•"
+global.packname = "🐉•"
 global.author = "𝑨𝑵𝑻𝑰𝑺𝑶𝑪𝑰𝑨𝑳 𝑯𝑼𝑴𝑰𝑫𝑰𝑻𝒀•🎃\n\n+916909137213"
-global.creator = "2347069763306@s.whatsapp.net"
-global.prefa = ['🎃','!','🎃','#','&']
+global.creator = "2347017804748@s.whatsapp.net"
+global.prefa = ['🐉','!','🐉','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
