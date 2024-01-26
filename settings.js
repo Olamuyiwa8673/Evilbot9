@@ -22,7 +22,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2349091006233" //ur owner number2
+global.ownernomer = "2349156305896" //ur owner number2
 global.ownername = "ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ ᗷᝪᎢ" //ur owner name
 global.ytname = "YT: https://youtube.com/@SpecialDJmaximum?si=w-YmaRcu6hiEFQea" //ur yt chanel name
 global.socialm = "insta: https://www.instagram.com/special_dj_maximmum?igsh=MXdzd2Z5dXJ4dGZsNA==" //ur github or insta name
@@ -30,9 +30,9 @@ global.location = "nigeria, lagos, abuja" //ur location
 
 //new
 global.botname = "ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ ᗷᝪᎢ"
-global.ownernumber = '2349091006233'
+global.ownernumber = '2349156305896'
 global.ownername = 'ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ'
-global.ownerNumber = ["2349091006233@s.whatsapp.net"]
+global.ownerNumber = ["2349156305896@s.whatsapp.net"]
 global.ownerweb = "https://www.tiktok.com/@specialdjmaximum?_t=8jLtKBlKUXV&_r=1"
 global.websitex = "https://www.instagram.com/special_dj_maximmum?igsh=MXdzd2Z5dXJ4dGZsNA=="
 global.wagc = "https://chat.whatsapp.com/Bj3BMlIcicfBgI0z2S3DWt"
@@ -41,7 +41,7 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "😎•"
 global.author = "ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ ᗷᝪᎢ•🎃\n\n+916909137213"
-global.creator = "2349091006233@s.whatsapp.net"
+global.creator = "2349156305896@s.whatsapp.net"
 global.prefa = ['*','!','🐉','#','&']
 global.sessionName = 'session'
 global.hituet = 0
